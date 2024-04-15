@@ -1,5 +1,7 @@
 <a href="https://github.com/SilentDemonSD"><kbd><img src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg"/></kbd></a>
 
+[![](https://komarev.com/ghpvc/?username=silentdemonsd&label=Profile%20Counter&color=000000&style=plastic)](#)
+
 ### ℹ️ ***Profile***
 - 🆔️ **Name :** _MysterySD_
 - 🔠 **Education :** _School Student_
@@ -36,9 +38,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SilentDemonSD&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 **Help Me by Donating** _few bucks !_
+  ## 💰 ***Donate Me***
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MysterySD) 
 
   
