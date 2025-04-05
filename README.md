@@ -4,12 +4,12 @@
 
 ### ℹ️ ***Profile***
 - 🆔️ **Name :** _MysterySD_
-- 🔠 **Education :** _School Student_
+- 🔠 **Education :** _College Student_
 - 📖 **Nationality :** _Indian_
-- 💼 **Years of Coding :** _6 years_
+- 💼 **Years of Coding :** _7 years+_
 
 ### 👤 ***About Me:***
-🔭 I’m currently working on Random Projects<br>👯 I’m looking to collaborate on Major or Minor Interesting Projects<br>🤝 I’m looking for help with my repos updates<br>🌱 I’m currently learning Android Development & Machine Learning AI<br>💬 Ask me about Anything !!<br>⚡ Fun fact : I am Unstoppable but can Halt sometimes ! Hehe
+🔭 I’m currently working on My Personal & Hackathon Projects<br>👯 I’m looking to collaborate on Intermediate Interesting Projects<br>🤝 I’m looking for help with my repos regular updates<br>🌱 I’m currently learning Android Development & Machine Learning AI<br>💬 Ask me about Anything !!<br>⚡ Fun fact : I am Unstoppable but can Halt sometimes ! Hehe
 
 
 ## 🌐 ***Socials:***
