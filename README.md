@@ -1,4 +1,4 @@
-<a href="https://github.com/SilentDemonSD"><kbd><img src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg"/></kbd></a>
+<a href="https://github.com/SilentDemonSD"><kbd><img src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg" height="300" /></kbd></a>
 
 [![](https://komarev.com/ghpvc/?username=silentdemonsd&label=Profile%20Counter&color=000000&style=plastic)](#)
 
@@ -38,8 +38,45 @@
 
 ---
 
-  ## 💰 ***Donate Me***
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MysterySD) 
+### 💰 ***Support My Work***
 
-  
+If you feel I’ve made your life easier, consider supporting me! 🚀  
+
+📱 UPI  
+```
+mysterysd@axl
+``` 
+
+🌐 Binance  
+```
+787934132
+```
+   
+📱 TonKeeper / TON & USD₮ 
+```
+UQC-f67ki1ZRrboexsB96rngphtuwgzWNrBMSv8SYY_KpnV3
+```
+   
+📱 TonKeeper W5 / TON & USD₮ W5  
+```
+UQClOSYBm09SR1FVSPz8FSWM0otCe93FP5jZwCdwsSQF5cFP
+```
+   
+📱 BTC (Bitcoin Segwit)  
+```
+bc1qkwj4wjtk3ndrlgnepyr9nnk07zyj2679z0asmd
+```
+   
+📱 ETH (Ethereum)  
+```
+0x792d9abBcdBE86369FaD96A2e804577cf0d40637
+```
+   
+🔥 SOL (Solana)  
+```
+EZp49pXTAaXnkjyidmnqBj17a5BpD2bJ6L9Hu5B71Bmf
+```
+
+🙏 Your support helps me keep building and sharing more!  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
