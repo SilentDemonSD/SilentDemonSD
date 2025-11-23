@@ -71,7 +71,7 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 </a>
 
 <!-- StackOverflow -->
-<a href="https://stackoverflow.com/users/yourid/yourusername">
+<a href="https://stackoverflow.com/users/24524039/mystery-sd">
 <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" height="32"/>
 </a>
 
@@ -81,7 +81,7 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 </a>
 
 <!-- Medium -->
-<a href="https://medium.com/@yourusername">
+<a href="https://medium.com/@mysterysd">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="32"/>
 </a>
 
@@ -121,12 +121,12 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 </a>
 
 <!-- Buy Me a Coffee -->
-<a href="https://buymeacoffee.com/yourusername">
+<a href="https://buymeacoffee.com/mysterysd">
 <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32"/>
 </a>
 
 <!-- Ko-fi -->
-<a href="https://ko-fi.com/yourusername">
+<a href="https://ko-fi.com/mysterysd">
 <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" height="32"/>
 </a>
 
