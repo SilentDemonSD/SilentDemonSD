@@ -262,7 +262,9 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 
 ## 🏆 ***GitHub Trophies*** 
 
-![](https://github-profile-trophy.vercel.app/?username=SilentDemonSD&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+<p align="center">
+  <img src="https://gh-tropies.mysterysd.in/?username=SilentDemonSD&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" height="800"/>
+</p>
 
 ---
 
