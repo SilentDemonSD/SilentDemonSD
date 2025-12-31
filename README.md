@@ -240,22 +240,22 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" height="260"/>
+  <img src="https://gh-stats.mysterysd.in/api?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" height="260"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SilentDemonSD&theme=dark&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=SilentDemonSD&theme=dark&date_format=M%20j%5B%2C%20Y%5D" height="260"/>
 </p>
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact" height="260"/>
+  <img src="https://gh-stats.mysterysd.in/api/top-langs/?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact" height="320"/>
 </p>
 
 ---
 
 ## 🔝 ***Top Contributed Repo***
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SilentDemonSD&limit=5&theme=radical&combine_all_yearly_contributions=true" height="260" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SilentDemonSD&limit=8&theme=radical&combine_all_yearly_contributions=true" height="260" />
 </p>
 
 ---
