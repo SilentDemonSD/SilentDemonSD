@@ -240,7 +240,7 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://gh-stats.mysterysd.in/api?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" height="260"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" height="260"/>
 </p>
 
 <p align="center">
@@ -248,7 +248,7 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 </p>
 
 <p align="right">
-  <img src="https://gh-stats.mysterysd.in/api/top-langs/?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact" height="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentDemonSD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact" height="320"/>
 </p>
 
 ---
@@ -263,7 +263,7 @@ I aim to build products that not only work — but feel crafted, Perfection is m
 ## 🏆 ***GitHub Trophies*** 
 
 <p align="center">
-  <img src="https://gh-tropies.mysterysd.in/?username=SilentDemonSD&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" height="800"/>
+  <img src="https://github-profile-repo.vercel.app/?username=SilentDemonSD&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" height="800"/>
 </p>
 
 ---
